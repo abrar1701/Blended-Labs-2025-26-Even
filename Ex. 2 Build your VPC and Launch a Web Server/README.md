@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Mohamed Abrar M
+* **Register Number**: 212223040111
+* **Date of Submission**: 28-02-2026
 
 ---
 
@@ -85,13 +85,12 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Created a VPC
+2. Created a Public Subnet
+3. Created and Attach Internet Gateway
+4. Configured Route Table
+5. Created Security Group
+6. Configured Web Server
 
 ---
 
@@ -99,19 +98,19 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/204cb8aa-b343-4210-831b-c7d2e006e157" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/2a566bf2-caa6-4b36-80d6-98e4998979cf" />
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/f69e5334-9cd9-4fac-b5b8-a9656b13c390" />
 
 ---
 
