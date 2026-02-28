@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Mohamed Abrar M
+* **Register Number**: 212223040111
+* **Date of Submission**: 28-02-2026
 
 ---
 
@@ -80,11 +80,13 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Explored Amazon EBS
+2. Created an EBS Volume
+3. Attached EBS Volume to EC2 Instance
+4. Formatted the EBS Volume
+5. Mounted the EBS Volume
+6. Stored Data in EBS Volume
+7. Verified Data Persistence
 
 ---
 
@@ -92,19 +94,19 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/331bc065-8793-4ad1-ab37-c0fd2b2f7a87" />
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/cf82ba3a-ecda-47c8-93cb-3ef7eb1aebdb" />
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/ad081d8b-d98b-4532-a2fa-953bca046f4c" />
 
 ---
 
