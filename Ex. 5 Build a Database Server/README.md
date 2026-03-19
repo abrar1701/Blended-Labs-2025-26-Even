@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Mohamed Abrar M
+* **Register Number**: 212223040111
+* **Date of Submission**: 19-03-2026
 
 ---
 
@@ -84,11 +84,13 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Launched EC2 Instance for Database Server
+2. Configureed Security Group for Database Access
+3. Connected to EC2 Instance
+4. Installed Database Server
+5. Started and Configured Database Service
+6. Created a Sample Database
+7. Tested Database Connectivity
 
 ---
 
@@ -96,19 +98,19 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/09383823-3cbb-459b-bdde-27d8f8308d3f" />
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/328fcbc0-be7f-42d8-9053-45f4902cb01c" />
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/c59820e7-1198-4a42-be35-125a9a36307f" />
 
 ---
 
