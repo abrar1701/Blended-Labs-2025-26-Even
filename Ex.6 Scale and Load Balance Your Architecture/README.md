@@ -64,13 +64,25 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
+## Workflow
 
-Describe step-by-step how you performed this experiment in your own words.
 
+* Reviewed Existing Architecture
+* Created a Launch Template
+* Created an Auto Scaling Group
+* Configured an Application Load Balancer
+* Registered Auto Scaling Group with Load Balancer
+* Configured Scaling Policies
+* Tested Load Balancing and Scaling
 ---
 
 ## Output Screenshots 
+<img width="1920" height="1080" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/c9b63474-aaf6-4a2b-903f-c6f6d4972007" />
+<img width="1920" height="1080" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/f9387080-a37f-4c12-b066-dc26da9c7b99" />
+<img width="1920" height="1080" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/2e86b0ee-b4cc-4ca5-8d82-d49974167a94" />
+<img width="1920" height="1080" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/4840af0a-f6fe-4d61-8c51-82315d526d6d" />
+<img width="1920" height="1080" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/1e00fa95-ab57-480a-91dd-ba3df9df4651" />
+<img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/4d1bd187-d857-4ec5-8b90-6df8c640dd77" />
 
 
 ---
